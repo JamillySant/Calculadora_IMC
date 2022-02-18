@@ -1,0 +1,43 @@
+.form_tab{
+	margin: 20px;
+	height: 300x;
+	width: 420px;
+	text-align: center;
+	border-radius: 25px;
+	background: rgb(0, 0, 0);
+	color:white;
+	border: groove;
+}
+
+.titulo{
+	font-size: 30px;
+	font-family: 'Georgia';
+}
+
+.principal{
+	font-family: 'Georgia';
+	text-align: left;
+	font-size:20px;
+}
+
+.caixa_texto{
+	font-family: 'Georgia';
+	text-align: center;
+	font-weight: bolder;
+	border-radius: 4px;
+	width: 150px;
+}
+
+.butt{
+	background-color: rgb(27, 78, 155);
+	color:white;
+	border-radius: 8px;
+	font-weight: bolder;
+	height: 30px;
+	width: 300px;
+}
+
+.result{
+	font-weight: bolder;
+	color: yellow;
+}
