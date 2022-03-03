@@ -2,7 +2,8 @@
   const result = document.querySelector('.result');
 
   function resultformulario(event) {
-  
+  event.preventDefault();
+    
   const Peso = document.querySelector('#peso').value;
   const Altura = document.querySelector('#altura').value;
 
